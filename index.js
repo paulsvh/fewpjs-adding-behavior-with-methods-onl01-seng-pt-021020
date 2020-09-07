@@ -7,4 +7,3 @@ class Cat {
     return `${this.name} says meow!`
   }
 }
-
