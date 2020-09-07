@@ -32,4 +32,3 @@ class Bird {
     }
   }
 }
- instance of Bird, speak returns conditional output. If the instance of Bird is male, speak returns "It's me! name, the parrot!". If it is not male, speak returns "name says squawk!".
